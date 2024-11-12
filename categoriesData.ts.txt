@@ -1,0 +1,11 @@
+const categoriesData = [
+    {id:1, name:"Ev & Yaşam"},
+    {id:2, name:"Kozmetik  Kişisel Bakım"},
+    {id:3, name:"Genel"},
+    {id:4, name:"Kitap, Müzik, Film, Oyun"},
+    {id:5, name:"Elektrikli Ev Aletleri"},
+    {id:6, name:"Elektronik"},
+]
+
+
+export default categoriesData;
