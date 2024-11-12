@@ -2,15 +2,15 @@
 
 ## APP SCREENSHOTS
 <p align="center">
-  <img src="https://github.com/nrebra/narEvim/blob/main/images/account_screen.png" width="24%" />
+  <img src="https://github.com/nrebra/narEvim/blob/main/images/homePage.png" width="24%" />
+  <img src="https://github.com/nrebra/narEvim/blob/main/images/login_screen.png" width="24%" />
   <img src="https://github.com/nrebra/narEvim/blob/main/images/categories_details_screen0.png" width="24%" />
   <img src="https://github.com/nrebra/narEvim/blob/main/images/categories_details_screen.png" width="24%" />
-  <img src="https://github.com/nrebra/narEvim/blob/main/images/login_screen.png" width="24%" />
 </p>
 
 <p align="center">
+  <img src="https://github.com/nrebra/narEvim/blob/main/images/account_screen.png" width="24%" />
   <img src="https://github.com/nrebra/narEvim/blob/main/images/password_change_screen.png" width="24%" />
-  <img src="https://github.com/nrebra/narEvim/blob/main/images/homePage.png" width="24%" />
   <img src="https://github.com/nrebra/narEvim/blob/main/images/projects_screen.png" width="24%" />
 </p>
 
